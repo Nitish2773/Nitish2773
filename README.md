@@ -134,9 +134,9 @@ To craft intuitive, scalable digital experiences that blend pixel-perfect UI wit
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nitish2773&show_icons=true&locale=en" alt="GitHub stats" />
 </p>
 
-<!-- GitHub streak -->
+<!-- GitHub Streak -->
 <p align="center">
-  <img align="center" src="https://streak-stats.demolab.com?user=nitish2773&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=nitish2773&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!-- Top languages -->
