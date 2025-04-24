@@ -15,12 +15,27 @@
 
 ## 💡 About Me
 
-**📛 Name:** Sri Nitish Kamisetti  
-**📍 Location:** Kakinada, India  
-**🧠 Focused On:** MERN Stack, scalable web systems  
-**📚 Currently Learning:** React.js • AWS • Spring Boot • Django  
-**🤝 Open to Collaborate On:** Frontend-heavy apps, full-stack systems, OSS contributions  
-**🎯 Goal:** Craft seamless digital experiences with elegant UIs and battle-tested backends.
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      
+Hi, I’m **Sri Nitish Kamisetti**, a passionate full stack developer from 🇮🇳 India. I’m on a mission to build digital experiences that are as fast, functional, and flawless as they are beautiful.
+
+- 🔭 I’m currently working with the **MERN Stack**
+- 🌱 Always learning: React, AWS, Django, Spring Boot
+- 👯 I’m looking to collaborate on full-stack, scalable web apps
+- 🎯 Goal: To merge sleek UIs with bulletproof backends
+- 💬 Ask me about JavaScript, MongoDB, React, Node.js
+
+I believe in writing **clean code**, solving **real-world problems**, and constantly **leveling up**.
+
+  </td>
+  <td valign="top" width="30%">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%" style="border-radius:10px;">
+  </td>
+  </tr>
+</table>
+
 
 ---
 
