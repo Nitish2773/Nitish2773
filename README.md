@@ -1,10 +1,7 @@
-
 ![linkedin_cover_photo_2](https://github.com/user-attachments/assets/aefa7de5-f8a8-4422-a386-ca745837151e)
-<!-- Profile Header Image -->
-
 
 <h1 align="center">Hey there, I'm Sri Nitish Kamisetti <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">A passionate Full Stack Developer from 🇮🇳 India</h3>
+<h3 align="center">An Aspiring IT Support & Automation Engineer from 🇮🇳 India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nitish2773&style=flat-square" alt="Profile views" />
@@ -19,23 +16,22 @@
   <tr>
     <td valign="top" width="70%">
       
-Hi, I’m **Sri Nitish Kamisetti**, a passionate full stack developer from 🇮🇳 India. I’m on a mission to build digital experiences that are as fast, functional, and flawless as they are beautiful.
+Hi, I’m **Sri Nitish Kamisetti**, a B.Tech CSE graduate from GIET and a dedicated learner pursuing a career in **IT Support**, **Python Automation**, **Database Engineering**, and **Microsoft 365 Admin**.
 
-- 🔭 I’m currently working with the **MERN Stack**
-- 🌱 Always learning: React, AWS, Django, Spring Boot
-- 👯 I’m looking to collaborate on full-stack, scalable web apps
-- 🎯 Goal: To merge sleek UIs with bulletproof backends
-- 💬 Ask me about JavaScript, MongoDB, React, Node.js
+- ✅ Google IT Support Certified
+- 🔄 Currently Learning: Google Python IT Automation, Meta Database Engineer, Office 365 Admin Tools
+- 🛠️ Strong hands-on foundation through NxtWave’s CCBP 4.0 Program
+- 🧠 Building scripts to automate repetitive tasks, manage databases, and support users efficiently
+- 👀 Looking for entry-level opportunities in IT Infrastructure, Support Engineering, or Automation Scripting
 
-I believe in writing **clean code**, solving **real-world problems**, and constantly **leveling up**.
+Though I began as a full-stack enthusiast, I've pivoted toward the backbone of tech — support systems, automation, and reliability. I'm passionate about solving real-world tech issues and enabling smoother IT operations in enterprise environments.
 
   </td>
   <td valign="top" width="30%">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="100%" style="border-radius:10px;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="IT Operations GIF" width="100%" style="border-radius:10px;">
   </td>
   </tr>
 </table>
-
 
 ---
 
@@ -50,38 +46,47 @@ I believe in writing **clean code**, solving **real-world problems**, and consta
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects (Relevant to Certifications)
 
-- 🛠️ [**Password Manager App**](https://github.com/nitish2773/password-manager) – React + UUID, full CRUD, local storage
-- 🧾 [**CertifySecure**](https://github.com/Nitish2773/CertifySecure)) – Flutter, Firebase, Nodejs, mobile-first design, Blockchain, Face Recognition
-- 📦 [**E-Commerce NxtTrendzApp**](https://github.com/Nitish2773/NxtTrendzApp)) – Reactjs Authentication, filtering, Sorting & Searching
+- 🖥️ [**IT Ticketing System & Asset Tracker**](#) – Simulated support tickets, inventory control using Python & Google Sheets
+- 🐍 [**Log Analyzer & Email Alert Bot**](#) – Python + Cron to parse system logs and auto-email critical errors
+- 🧮 [**Employee Database Manager**](#) – MySQL-based HR database with complex queries & role-based reports
+- 🛡️ [**Office 365 User Provisioning Script**](#) – PowerShell automation for user creation, license assignment
+
+> *(All projects available soon on GitHub. Stay tuned!)*
 
 ---
 
 ## 🧠 Skills & Tools
 
-### ⚙️ Languages & Frameworks:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript) 
-![React](https://img.shields.io/badge/-React-black?logo=react) 
-![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js)  
-![Java](https://img.shields.io/badge/-Java-black?logo=java) 
-![Python](https://img.shields.io/badge/-Python-black?logo=python)  
-![Django](https://img.shields.io/badge/-Django-black?logo=django) 
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-black?logo=spring)
+### 📚 Certifications & Learning:
+- 🟢 Google IT Support Certificate
+- 🔄 Google Python IT Automation (Ongoing)
+- 📘 Meta Database Engineer (Ongoing)
+- ☁️ Microsoft Office 365 Admin (Ongoing)
+- 🔧 NxtWave CCBP 4.0 Graduate
 
-### 🛠️ Tools & Platforms:
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-black?logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap)
+### ⚙️ Languages & Tools:
+![Python](https://img.shields.io/badge/-Python-black?logo=python)
+![SQL](https://img.shields.io/badge/-MySQL-black?logo=mysql)
+![Bash](https://img.shields.io/badge/-Bash-black?logo=gnu-bash)
+![PowerShell](https://img.shields.io/badge/-PowerShell-black?logo=powershell)
 ![Git](https://img.shields.io/badge/-Git-black?logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?logo=docker)
-![Firebase](https://img.shields.io/badge/-Firebase-black?logo=firebase)
 ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux)
+![Office 365](https://img.shields.io/badge/-Microsoft_365-black?logo=microsoft-office)
 
 ---
 
-## 🚀 Portfolio
+## 📦 Legacy Projects (Full-Stack Background)
+
+- 🧾 [**CertifySecure**](https://github.com/Nitish2773/CertifySecure) – Blockchain-powered Certificate Verification System using Flutter, Firebase, Python & Face Recognition
+- 📦 [**E-Commerce NxtTrendzApp**](https://github.com/Nitish2773/NxtTrendzApp) – ReactJS shopping platform with authentication, filters, search
+
+> *These show my versatile background and technical agility.*
+
+---
+
+## 🚀 Portfolio (Undergoing Revamp)
 
 <p align="center">
   <a href="https://srinitishportfolio.netlify.app/" target="_blank">
@@ -111,14 +116,6 @@ I believe in writing **clean code**, solving **real-world problems**, and consta
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitish2773&theme=tokyo-night" />
-</p>
-
----
-
 ## 🤣 Random Dev Joke (Because sanity matters)
 
 <p align="center">
@@ -130,4 +127,4 @@ I believe in writing **clean code**, solving **real-world problems**, and consta
 ### 📌 Credits
 
 > Built with ❤️ by **Sri Nitish Kamisetti**  
-> Let’s build cool stuff — clean code, clean vibes.
+> Let’s fix systems, automate pain points, and help businesses thrive. Clean tech, clean vibes.
