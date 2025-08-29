@@ -1,7 +1,7 @@
 ![linkedin_cover_photo_2](https://github.com/user-attachments/assets/aefa7de5-f8a8-4422-a386-ca745837151e)
 
 <h1 align="center">Hey there, I'm Sri Nitish Kamisetti <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">An Aspiring IT Support & Automation Engineer from 🇮🇳 India</h3>
+<h3 align="center">An Aspiring IT Specialist & Data Engineer from 🇮🇳 India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nitish2773&style=flat-square" alt="Profile views" />
@@ -15,23 +15,23 @@
 <table>
   <tr>
     <td valign="top" width="70%">
-      
-Hi, I’m **Sri Nitish Kamisetti**, a B.Tech CSE graduate from GIET and a dedicated learner pursuing a career in **IT Support**, **Python Automation**, **Database Engineering**, and **Microsoft 365 Admin**.
 
-- ✅ Google IT Support Certified
-- 🔄 Currently Learning: Google Python IT Automation, Meta Database Engineer, Office 365 Admin Tools
-- 🛠️ Strong hands-on foundation through NxtWave’s CCBP 4.0 Program
-- 🧠 Building scripts to automate repetitive tasks, manage databases, and support users efficiently
-- 👀 Looking for entry-level opportunities in IT Infrastructure, Support Engineering, or Automation Scripting
+Hi, I’m **Sri Nitish Kamisetti**, a B.Tech CSE graduate from GIET and an aspiring **Database Engineer / AWS Data Engineer** with a strong foundation in **Oracle SQL**, **cloud data systems**, and **automation with Python**.
 
-Though I began as a full-stack enthusiast, I've pivoted toward the backbone of tech — support systems, automation, and reliability. I'm passionate about solving real-world tech issues and enabling smoother IT operations in enterprise environments.
+* 🎓 Completed: **Meta Database Engineer Professional Certificate**, **Google IT Support Certification**
+* 🔄 Currently Learning: **Google Python IT Automation**, exploring **AWS Data Engineering** and advanced **database management**
+* 🛠️ Strong hands-on foundation through NxtWave’s CCBP 4.0 Program
+* 📊 Passionate about building and managing databases, automating workflows, and streamlining data pipelines
+* 👀 Looking for entry-level opportunities in **Database Engineering, Cloud Data Engineering (AWS), or Automation Scripting**
+
+I originally started on the **full-stack development path**, but pivoted into **data engineering and databases** — the backbone of modern applications. I’m driven by the challenge of making systems **reliable, scalable, and data-driven**.
 
   </td>
   <td valign="top" width="30%">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="IT Operations GIF" width="100%" style="border-radius:10px;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Engineering GIF" width="100%" style="border-radius:10px;">
   </td>
   </tr>
-</table>
+</table>  
 
 ---
 
@@ -61,9 +61,9 @@ Though I began as a full-stack enthusiast, I've pivoted toward the backbone of t
 
 ### 📚 Certifications & Learning:
 - 🟢 Google IT Support Certificate
-- 🔄 Google Python IT Automation (Ongoing)
-- 📘 Meta Database Engineer (Ongoing)
-- ☁️ Microsoft Office 365 Admin (Ongoing)
+- 🔄 Google Python IT Automation
+- 📘 Meta Database Engineer
+- ☁️ AWS Data Engineer
 - 🔧 NxtWave CCBP 4.0 Graduate
 
 ### ⚙️ Languages & Tools:
