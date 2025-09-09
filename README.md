@@ -1,7 +1,11 @@
-![linkedin_cover_photo_2](https://github.com/user-attachments/assets/aefa7de5-f8a8-4422-a386-ca745837151e)
+Perfect! I’ve created a **concise, recruiter-friendly version** of your GitHub README with a polished **About Me** section, updated projects, and skills. It keeps your legacy projects intact but highlights your **Data Engineering / Python + SQL expertise**.
 
-<h1 align="center">Hey there, I'm Sri Nitish Kamisetti <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">An Aspiring IT Specialist & Data Engineer from 🇮🇳 India</h3>
+---
+
+![linkedin\_cover\_photo\_2](https://github.com/user-attachments/assets/aefa7de5-f8a8-4422-a386-ca745837151e)
+
+<h1 align="center">Hi, I’m Sri Nitish Kamisetti <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3 align="center">Aspiring Data Engineer | Python & SQL | ETL | Analytics</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nitish2773&style=flat-square" alt="Profile views" />
@@ -12,26 +16,15 @@
 
 ## 💡 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="70%">
+Hi, I’m **Sri Nitish Kamisetti**, a B.Tech CSE graduate and aspiring **Data Engineer** with hands-on experience in **Python, MySQL, ETL, data cleaning, and analytics**. I enjoy building automated pipelines that turn raw data into actionable insights.
 
-Hi, I’m **Sri Nitish Kamisetti**, a B.Tech CSE graduate from GIET and an aspiring **Database Engineer / AWS Data Engineer** with a strong foundation in **Oracle SQL**, **cloud data systems**, and **automation with Python**.
+* 🎓 Completed: **Meta Database Engineer**, **Google IT Support Certificate**
+* 🔄 Currently Learning: **Google Python IT Automation**, **AWS Data Engineering (S3, Glue, Athena)**
+* 🛠️ Practical experience via NxtWave’s CCBP 4.0 Program
+* 📊 Skilled in **ETL pipelines, SQL analytics, reporting, and workflow automation**
+* 👀 Seeking **entry-level roles in Data Engineering, Analytics, or Automation Scripting**
 
-* 🎓 Completed: **Meta Database Engineer Professional Certificate**, **Google IT Support Certification**
-* 🔄 Currently Learning: **Google Python IT Automation**, exploring **AWS Data Engineering** and advanced **database management**
-* 🛠️ Strong hands-on foundation through NxtWave’s CCBP 4.0 Program
-* 📊 Passionate about building and managing databases, automating workflows, and streamlining data pipelines
-* 👀 Looking for entry-level opportunities in **Database Engineering, Cloud Data Engineering (AWS), or Automation Scripting**
-
-I originally started on the **full-stack development path**, but pivoted into **data engineering and databases** — the backbone of modern applications. I’m driven by the challenge of making systems **reliable, scalable, and data-driven**.
-
-  </td>
-  <td valign="top" width="30%">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Engineering GIF" width="100%" style="border-radius:10px;">
-  </td>
-  </tr>
-</table>  
+I began in **full-stack development** but pivoted to **data engineering**, combining programming, databases, and automation to deliver **efficient and reliable data solutions**.
 
 ---
 
@@ -46,50 +39,51 @@ I originally started on the **full-stack development path**, but pivoted into **
 
 ---
 
-## 📌 Featured Projects (Relevant to Certifications)
+## 📌 Featured Projects (Data Engineering)
 
-- 🖥️ [**IT Ticketing System & Asset Tracker**](#) – Simulated support tickets, inventory control using Python & Google Sheets
-- 🐍 [**Log Analyzer & Email Alert Bot**](#) – Python + Cron to parse system logs and auto-email critical errors
-- 🧮 [**Employee Database Manager**](#) – MySQL-based HR database with complex queries & role-based reports
-- 🛡️ [**Office 365 User Provisioning Script**](#) – PowerShell automation for user creation, license assignment
-
-> *(All projects available soon on GitHub. Stay tuned!)*
+* 🐍 [**Business Data ETL & Analytics Pipeline**](#) – Extracted, cleaned, and loaded CSV/Excel data into MySQL; implemented SQL joins, aggregations, window functions, and CTEs; automated reporting with Python.
+* 🧮 [**Employee & HR Data Analytics Mini Project**](#) – Python & SQL-driven analysis of employee attendance, payroll, and performance; automated summary reports.
+* 📦 [**Personal Portfolio Website (MERN Stack)**](#) – Deployed portfolio with React, Node.js, Express, MongoDB; implemented secure admin CRUD operations and dynamic data handling.
 
 ---
 
 ## 🧠 Skills & Tools
 
-### 📚 Certifications & Learning:
-- 🟢 Google IT Support Certificate
-- 🔄 Google Python IT Automation
-- 📘 Meta Database Engineer
-- ☁️ AWS Data Engineer
-- 🔧 NxtWave CCBP 4.0 Graduate
+### 📚 Certifications & Learning
 
-### ⚙️ Languages & Tools:
+* 🟢 Google IT Support Certificate
+* 🔄 Google Python IT Automation
+* 📘 Meta Database Engineer
+* ☁️ AWS Data Engineer (Learning)
+* 🔧 NxtWave CCBP 4.0 Graduate
+
+### ⚙️ Languages & Tools
+
 ![Python](https://img.shields.io/badge/-Python-black?logo=python)
 ![SQL](https://img.shields.io/badge/-MySQL-black?logo=mysql)
+![Pandas](https://img.shields.io/badge/-Pandas-black)
+![NumPy](https://img.shields.io/badge/-NumPy-black)
 ![Bash](https://img.shields.io/badge/-Bash-black?logo=gnu-bash)
-![PowerShell](https://img.shields.io/badge/-PowerShell-black?logo=powershell)
 ![Git](https://img.shields.io/badge/-Git-black?logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux)
+![Tableau](https://img.shields.io/badge/-Tableau-black)
 ![Office 365](https://img.shields.io/badge/-Microsoft_365-black?logo=microsoft-office)
 
 ---
 
 ## 📦 Legacy Projects (Full-Stack Background)
 
-- 🧾 [**CertifySecure**](https://github.com/Nitish2773/CertifySecure) – Blockchain-powered Certificate Verification System using Flutter, Firebase, Python & Face Recognition
-- 📦 [**E-Commerce NxtTrendzApp**](https://github.com/Nitish2773/NxtTrendzApp) – ReactJS shopping platform with authentication, filters, search
+* 🧾 [**CertifySecure**](https://github.com/Nitish2773/CertifySecure) – Blockchain-powered Certificate Verification System (Flutter, Firebase, Python & Face Recognition)
+* 📦 [**E-Commerce NxtTrendzApp**](https://github.com/Nitish2773/NxtTrendzApp) – ReactJS shopping platform with authentication, filters, search
 
-> *These show my versatile background and technical agility.*
+> *Demonstrates versatility and technical agility.*
 
 ---
 
-## 🚀 Portfolio (Undergoing Revamp)
+## 🚀 Portfolio
 
 <p align="center">
-  <a href="https://srinitishportfolio.netlify.app/" target="_blank">
+  <a href="https://srinitish-portfolio.netlify.app/" target="_blank">
     <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/945b0225337909.563440870421b.png" alt="Portfolio" width="120px" height="120px" />
   </a>
 </p>
@@ -116,7 +110,7 @@ I originally started on the **full-stack development path**, but pivoted into **
 
 ---
 
-## 🤣 Random Dev Joke (Because sanity matters)
+## 🤣 Random Dev Joke
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
@@ -126,5 +120,6 @@ I originally started on the **full-stack development path**, but pivoted into **
 
 ### 📌 Credits
 
-> Built with ❤️ by **Sri Nitish Kamisetti**  
-> Let’s fix systems, automate pain points, and help businesses thrive. Clean tech, clean vibes.
+> Built with ❤️ by **Sri Nitish Kamisetti** – Passionate about building **data pipelines, automating workflows, and delivering actionable insights**.
+
+---
