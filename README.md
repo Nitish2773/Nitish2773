@@ -1,5 +1,3 @@
-Perfect! I’ve created a **concise, recruiter-friendly version** of your GitHub README with a polished **About Me** section, updated projects, and skills. It keeps your legacy projects intact but highlights your **Data Engineering / Python + SQL expertise**.
-
 ---
 
 ![linkedin\_cover\_photo\_2](https://github.com/user-attachments/assets/aefa7de5-f8a8-4422-a386-ca745837151e)
